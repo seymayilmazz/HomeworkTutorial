@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.tutorial.homeworktutorial1.ShowActivity"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textViewAd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gösterim"
+        android:textSize="20sp"
+        android:textColor="#5c31b9"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:shadowColor="#e62828"/>
+
+    <TextView
+        android:id="@+id/textViewSoyad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gösterim"
+        android:textSize="20sp"
+        android:textColor="#5c31b9"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:shadowColor="#e62828"/>
+
+    <TextView
+        android:id="@+id/textViewYas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gösterim"
+        android:textSize="20sp"
+        android:textColor="#5c31b9"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:shadowColor="#e62828"/>
+
+
+</LinearLayout>
